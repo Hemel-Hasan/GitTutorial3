@@ -1,3 +1,6 @@
+print("A for Apple" )
+print("B for Ball")
+print("C fort Cat")
 print("D for Doll")
 print("E for Elephant")
 print("F for Flower")
